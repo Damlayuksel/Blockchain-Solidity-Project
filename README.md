@@ -12,7 +12,7 @@
 
 
 
-### Here is some operations in the project ,for example if we want to deposit ether from user Id 1 we should follow these steps ıts the steps given in the picture:
+### Here is some operations in the project like if we want to deposit ether from user Id 1 we should follow these steps ıts the steps given in the picture:
 
 ![Image](https://github.com/user-attachments/assets/1bdc495f-1bb2-465f-85b5-8a7a919ad4ee)
 

@@ -14,9 +14,9 @@
 
 To deposit Ether from User ID 1, follow the steps outlined in the images below:
 
-1. **Step 1**:![Image](https://github.com/user-attachments/assets/1bdc495f-1bb2-465f-85b5-8a7a919ad4ee)
-2. **Step 2**:![Image](https://github.com/user-attachments/assets/602d93da-1c8d-4165-acb4-2a0084fb91d3)
-3. **Step 3**: ![Image](https://github.com/user-attachments/assets/c0492f20-2b94-4278-9b90-8aa87b9804d2)
+1. **Step 1: Enter User ID And Ether Amount İn Deposit Funds Part And Click Deposit Accept İt From Metamask**:![Image](https://github.com/user-attachments/assets/1bdc495f-1bb2-465f-85b5-8a7a919ad4ee)
+2. **Step 2: Website Will Give You Alert Message That Says Funds Deposited Succesfully **:![Image](https://github.com/user-attachments/assets/602d93da-1c8d-4165-acb4-2a0084fb91d3)
+3. **Step 3: After All You Can Check Balance With Enter The User ID 1 And It Wıll Show Balance Below You Can Try Each Opearations With This Given Instruction**: ![Image](https://github.com/user-attachments/assets/c0492f20-2b94-4278-9b90-8aa87b9804d2)
 
 You can follow these steps to successfully interact with the FeeCollector Smart Contract.
 

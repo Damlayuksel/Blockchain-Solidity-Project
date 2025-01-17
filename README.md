@@ -1,6 +1,6 @@
 # FeeCollector Smart Contract DApp
 
-**FeeCollector Smart Contract** is a decentralized application (DApp) built on the Ethereum blockchain. This project consists of a smart contract designed to collect fees and a frontend interface that allows users to interact with the contract. The contract is deployed using Remix IDE, and the frontend is built using JavaScript.
+**FeeCollector Smart Contract** is a decentralized application (DApp) built on the Ethereum blockchain. This project consists of a smart contract designed to collect fees and a frontend interface that allows users to interact with the contract. The contract is deployed using Remix IDE, and the frontend is built using JavaScript, HTML, and CSS.
 
 ## Features
 
@@ -14,9 +14,14 @@
 
 To deposit Ether from User ID 1, follow the steps outlined in the images below:
 
-1. **Step 1: Enter User ID And Ether Amount İn Deposit Funds Part And Click Deposit Accept İt From Metamask**:![Image](https://github.com/user-attachments/assets/1bdc495f-1bb2-465f-85b5-8a7a919ad4ee)
-2. **Step 2: Website Will Give You Alert Message That Says Funds Deposited Succesfully **:![Image](https://github.com/user-attachments/assets/602d93da-1c8d-4165-acb4-2a0084fb91d3)
-3. **Step 3: After All You Can Check Balance With Enter The User ID 1 And It Wıll Show Balance Below You Can Try Each Opearations With This Given Instruction**: ![Image](https://github.com/user-attachments/assets/c0492f20-2b94-4278-9b90-8aa87b9804d2)
+1. **Step 1: Enter User ID and Ether Amount in the Deposit Funds Section and Click Deposit. Accept It From MetaMask**:  
+   ![Image](https://github.com/user-attachments/assets/1bdc495f-1bb2-465f-85b5-8a7a919ad4ee)
+
+2. **Step 2: The Website Will Display an Alert Message Saying "Funds Deposited Successfully"**:  
+   ![Image](https://github.com/user-attachments/assets/602d93da-1c8d-4165-acb4-2a0084fb91d3)
+
+3. **Step 3: Afterward, You Can Check the Balance by Entering User ID 1, and It Will Show the Balance Below. You Can Try Each Operation Using This Given Instruction**:  
+   ![Image](https://github.com/user-attachments/assets/c0492f20-2b94-4278-9b90-8aa87b9804d2)
 
 You can follow these steps to successfully interact with the FeeCollector Smart Contract.
 
@@ -52,8 +57,11 @@ Follow the instructions below to deploy the smart contract and run the frontend 
    - Open your browser and navigate to `localhost` to access the frontend interface.
    - You can now interact with the FeeCollector Smart Contract and perform various operations directly on the Ethereum blockchain.
 
-## License
+### Technologies Used
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- **Solidity**: For writing the smart contract deployed on the Ethereum blockchain.
+- **JavaScript**: For building the frontend to interact with the smart contract.
+- **HTML**: For structuring the frontend interface.
+- **CSS**: For styling the frontend interface.
 
 

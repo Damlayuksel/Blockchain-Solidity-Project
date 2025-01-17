@@ -1,4 +1,7 @@
-# FeeCollector Smart Contract DApp
+
+
+# FeeCollector Smart Contract DApp 🛠️🌐
+
 
 **FeeCollector Smart Contract** is a decentralized application (DApp) built on the Ethereum blockchain. This project consists of a smart contract designed to collect fees and a frontend interface that allows users to interact with the contract. The contract is deployed using Remix IDE, and the frontend is built using JavaScript, HTML, and CSS.
 
